@@ -12,7 +12,7 @@ body {
 }
 
 #preloder{
-    background: #111111 url(Images/preloader2.gif) no-repeat center center;
+    background: #111111 url(images/preloader2.gif) no-repeat center center;
     background-size: 20%;
     height: 100vh;
     width: 100%;
@@ -30,7 +30,7 @@ body {
 }
 
 .space{
-  background: url(Images/banner.webp)   center center;
+  background: url(images/banner.webp)   center center;
   color: rgb(26, 89, 236);
   margin-bottom: 110px;
   font-size: 40px;
