@@ -252,7 +252,7 @@ nav ul li a {
   background-size: cover;
  }
   .layer1{
-   background-image: url('./Src/layer1.svg');
+   background-image: url('src/layer1.svg');
   
  }
  
@@ -274,7 +274,7 @@ nav ul li a {
        }
     }
   .layer2{
-  background-image: url('./Src/L2.svg');
+  background-image: url('src/L2.svg');
  }
  .project{
   margin-bottom: 100px;
@@ -462,16 +462,3 @@ footer {
   from {opacity: 0;}
   to {opacity:1 ;}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
